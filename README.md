@@ -30,7 +30,7 @@ Links to workshops and tutorials that I have written or contributed to, many for
 
 [Beartooth intro](https://github.com/wyoibc/2023repres_popgen/blob/master/Intro_beartooth.md) 
 
-- Part of [this workshop](https://github.com/wyoibc/2023repres_popgen)). Beartooth is the primary UW cluster for UW users
+- Part of [this workshop](https://github.com/wyoibc/2023repres_popgen). Beartooth is the primary UW cluster for UW users
 
 [WildIris intro](https://github.com/seanharrington256/WildIris_tutorial)
 
